@@ -1,0 +1,7 @@
+@charset "UTF-8";
+
+.admin_category{
+  display: flex;
+  justify-content: center;
+  padding-bottom:10px;
+}
