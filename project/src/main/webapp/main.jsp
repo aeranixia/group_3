@@ -16,7 +16,7 @@
 		<!-- header.jsp (end)-->
 	<hr>
 		<!-- body -->
-		<!-- dd s-->
+		
 		<h3>여기가 메인</h3>
 		<!-- body (end)-->
 	<hr>
